@@ -6,6 +6,9 @@ The aim of this project is to build an Alumni management system online dashboard
 
 Project developed using PHP and MySQL
 
+Visit website:
+https://www.studentprojects.live/phpscript/alumni-management-system/
+
 Video demo of the project:
 https://www.youtube.com/watch?v=oqa36mDFSSQ
 
